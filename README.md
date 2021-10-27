@@ -15,3 +15,11 @@ docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.9-man
 6. run the consumer app service `go run consumer.go`
 
 ## Screenshot
+
+### terminal view
+
+![terminal](https://raw.githubusercontent.com/aysf/rabbitMQ-go-tutorial/main/ss1.PNG)
+
+### RabbitMQ GUI in localhost
+
+![gui](https://raw.githubusercontent.com/aysf/rabbitMQ-go-tutorial/main/ss2.PNG)
